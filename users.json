@@ -1,0 +1,26 @@
+[
+  {
+    "id": 1,
+    "name": "Goutam",
+    "email": "goutam@example.com",
+    "password": "hashed_password"
+  },
+  {
+    "id": 2,
+    "name": "Goutam Jena",
+    "email": "goutam.jena.test2026@example.com",
+    "password": "$2b$12$rj2IvlAgOmusp.DYzLJA9O7LS.YKcN3uTNVbz46dOnXPy./scnI7y"
+  },
+  {
+    "id": 3,
+    "name": "Goutam",
+    "email": "goutamjena023@gmail.com",
+    "password": "$2b$12$af8al9z1vb1U7Za/Kl7HKOvG3SRvs8CPumxs.5l54ogaTHu.yL67a"
+  },
+  {
+    "id": 4,
+    "name": "Goutamjena",
+    "email": "goutamjena032@gmail.com",
+    "password": "$2b$12$WsEMDM1GXhADqsbRMWrk2e/eY4Uz/enFcRlRL.s9pJ789P.HiAPw."
+  }
+]
